@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#1F82CD",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "知识竞赛列表",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
